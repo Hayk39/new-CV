@@ -16,23 +16,27 @@ a:hover{
 }
 a:active{ color: blue}
 .avatar{
-    width: 200px;
-    border-radius: 28px;
+    margin-top: 25px;
+    width: 350px;
+    border-radius: 58px;
     box-shadow: 4px 4px 14px rgba(0.0.0.0.25);
+    margin-left: 120%;
 }
 .info p{
 color: #86898f;
-margin: 0;
+
 font-style: italic;
 font-weight: bold;
 text-decoration: underline;
 text-transform: capitalize;
-letter-spacing: 1px;
-word-spacing: 7px;
+
+
+
 }
 .conteiner{
    max-width: 750px;
-   margin: auto;
+   margin: 20px;
+  
 
 }
 /* .social{
@@ -86,4 +90,9 @@ word-spacing: 7px;
     margin-bottom: 10px;
     padding-bottom: 5px;
     border-bottom: 1px;
+}
+
+.sss{
+    width: 750px;
+    margin-top: -65%;
 }
